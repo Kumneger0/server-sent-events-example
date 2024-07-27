@@ -21,10 +21,10 @@ To understand the full implementation and get a detailed explanation of the proj
 ## Installation
 
 1. Clone the repository:
-   ```sh
+```sh
    git clone https://github.com/Kumneger0/server-sent-events-example.git
    cd server-sent-events-example
-   ```
+```
  2 install dependencies:
   ```sh
    bun install
