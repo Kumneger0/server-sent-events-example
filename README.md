@@ -31,6 +31,6 @@ To understand the full implementation and get a detailed explanation of the proj
   ```
 3 Start the server:
   ```sh
-    bun dev
+    bun start
   ```
 
