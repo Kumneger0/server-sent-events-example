@@ -1,7 +1,8 @@
 {
   "name": "server-sent-evnets-example",
   "scripts": {
-    "dev": "bun run --hot src/index.ts"
+    "dev": "bun run --hot src/index.ts",
+    "start": "tsc public/script.ts --skipLibCheck --noEmitOnError false 2>/dev/null && bun dev"
   },
   "dependencies": {
     "hono": "^4.5.1"
